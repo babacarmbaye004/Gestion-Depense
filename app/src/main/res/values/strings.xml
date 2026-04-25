@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">My Budget</string>
+    <string name="login">Login</string>
+    <string name="error_field">Field required</string>
+    <string name="password">Password</string>
+    <string name="connection">Connection</string>
+    <string name="connect">Connect</string>
+    <string name="SignUp">SignUp</string>
+    <string name="email">info@esmt.sn</string>
+    <string name="presentation">Presentation</string>
+    <string name="inscription">Inscription</string>
 </resources>

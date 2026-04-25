@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Budget</string>
+    <string name="login">Login</string>
+    <string name="error_field">Champ obligatoire</string>
+    <string name="password">Mot de passe</string>
+    <string name="connection">Connexion</string>
+    <string name="connect">Se connecter</string>
+    <string name="SignUp">S\'inscrire</string>
+    <string name="email">info@esmt.sn</string>
+    <string name="presentation">Presentation</string>
+    <string name="inscription">Inscription</string>
+</resources>
